@@ -1,0 +1,19 @@
+/* #navbar a.active {
+    text-decoration-line: underline;
+    text-underline-offset: 5px;
+    text-decoration-color: black;
+    text-decoration-style: line;
+    text-decoration-thickness: 3px;
+} */
+
+
+#navbar a.active {
+    /* Add your desired styles for the active link */
+    background-color:#07500a; /* Red background color */
+    color: #ffffff; /* White text color */
+    font-weight: bold; /* Bold text */
+    text-decoration: none; /* No underline */
+    border-radius: 5px; /* Rounded corners */
+    padding: 5px 10px; /* Padding around the link */
+  }
+  
